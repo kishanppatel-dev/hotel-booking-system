@@ -198,3 +198,6 @@ Room (abstract)
 **Architecture:** MVC + SOLID + Creational Design Patterns
 ## Author
 Kishan Patel P 
+
+## Note
+This project was built as a learning exercise to practice object-oriented design, MVC architecture, and common design patterns in Java.
